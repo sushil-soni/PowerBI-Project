@@ -13,7 +13,7 @@ An interactive Power BI dashboard analyzing Blinkit grocery sales data.
 - Interactive filters for Outlet Location, Outlet Size and Item Type
 
 ### 📂 Files
-- [Blinkit Data (CSV)](Blinkit-Data.csv)
+- [Blinkit Data (CSV)](Blinkit_Data.csv)
 - [Dashboard Screenshot](blinkit-sales-dashboard.png)
 
 ### 🛠️ Tools Used
