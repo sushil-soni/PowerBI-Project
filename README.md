@@ -17,4 +17,4 @@ An interactive Power BI dashboard analyzing Blinkit grocery sales data.
 - [Dashboard Screenshot](blinkit-sales-dashboard.png)
 
 ### 🛠️ Tools Used
-Power BI, DAX, Power Quer
+Power BI, DAX, Power Query
