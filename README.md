@@ -4,6 +4,8 @@
 
 An interactive Power BI dashboard analyzing Blinkit grocery sales data.
 
+![Blinkit Sales Dashboard](blinkit-sales-dashboard.png)
+
 ### 📌 Key Highlights
 - Analyzed $1.20M total sales across 8,523 items with an average rating of 3.9
 - Sales breakdown by item type: Household, Dairy, Snacks, Fruits and more
